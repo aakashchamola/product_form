@@ -1,0 +1,37 @@
+[
+    {
+      "productName": "Apple",
+      "productId": "P001",
+      "category": "Grocery",
+      "brand": "Brand A",
+      "price": 50.0,
+      "discountPrice": 45.0,
+      "quantity": 100,
+      "measurementType": "kg",
+      "store": "Store A",
+      "validFrom": "2024-01-01",
+      "validTo": "2024-12-31",
+      "productType": "Fresh",
+      "imageUrl": "https://example.com/apple.jpg",
+      "notifyUsers": true,
+      "whatsappAlert": false
+    },
+    {
+      "productName": "Laptop",
+      "productId": "P002",
+      "category": "Electronics",
+      "brand": "Brand B",
+      "price": 50000.0,
+      "discountPrice": 45000.0,
+      "quantity": 10,
+      "measurementType": "units",
+      "store": "Store B",
+      "validFrom": "2024-01-15",
+      "validTo": "2025-01-15",
+      "productType": "Electronics",
+      "imageUrl": "https://example.com/laptop.jpg",
+      "notifyUsers": false,
+      "whatsappAlert": true
+    }
+  ]
+  
